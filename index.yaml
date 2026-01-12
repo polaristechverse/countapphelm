@@ -3,22 +3,12 @@ entries:
   countapp:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2026-01-12T08:27:16.1734954+05:30"
+    created: "2026-01-12T21:25:10.6073316+05:30"
     description: A Helm chart for Kubernetes
     digest: 0bdabe355030dbd0858be7c421733e97795d32e047220b3d4ea5ec7f8125e3f4
     name: countapp
     type: application
     urls:
-    - countapp-0.1.1.tgz
+    - https://polaristechverse.github.io/countapphelm/countapp-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2026-01-12T08:13:32.6013534+05:30"
-    description: A Helm chart for Kubernetes
-    digest: fb29dad77bfad26b06da93384ac580fd8da68b22a33e652c896ab116e2358480
-    name: countapp
-    type: application
-    urls:
-    - countapp-0.1.0.tgz
-    version: 0.1.0
-generated: "2026-01-12T08:27:16.1734954+05:30"
+generated: "2026-01-12T21:25:10.6013274+05:30"
