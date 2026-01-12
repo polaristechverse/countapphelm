@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  countapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-12T08:13:32.6013534+05:30"
+    description: A Helm chart for Kubernetes
+    digest: fb29dad77bfad26b06da93384ac580fd8da68b22a33e652c896ab116e2358480
+    name: countapp
+    type: application
+    urls:
+    - countapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-12T08:13:32.6013534+05:30"
